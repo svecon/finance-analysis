@@ -1,0 +1,131 @@
+Household
+	Rent and mortage interest
+	Building and property insurance
+	Heating and incidental costs
+	Electricity and gas
+	Water, sewage and waste charges
+	Maintenance and repairs
+	Facilities and furniture
+	Consumer electronics
+	Tools and garden
+	Hygiene and cosmetics articles
+	Household articles and accessories
+	Household equipment
+	Office articles and services
+	Miscellaneous
+
+Personal Expenditure
+	Consumer electronics
+	Clothing, shoes and accessories
+	Personal hygiene and wellnes
+	Food (snacks, restaurants and bars)
+	Training and further education
+	Job-related expenditure and fees
+	Personal liability insurance
+	Gifts
+	Miscellaneous
+
+Vacation & travel
+	Accomodation and hotels
+	Travel and flight costs
+	Excursion and tours
+	Offers and services
+	Miscellaneous
+
+Health & medical
+	Health and accident insurance
+	Drugs and pharmaceuticals
+	Medical services
+	Hospital services and therapies
+	Care services and health resort
+	Miscellaneous
+
+Food and beverage
+	Groceries
+	Dining out
+	Takeaway
+	Bars
+	Cafes
+	Miscellaneous
+
+Chilren and family
+	Home help and childcare
+	Pets
+	Education
+	Miscellaneous
+
+Traffic, car & transport
+	Local transport (tickets & subscriptions)
+	Public transport (tickets & subscriptions)
+	Taxis
+	Vehicles (car, motorbiek, bycicle)
+	Vehicle insurance
+	Fuel (gasoline, diesel, gas)
+	Service and repairs
+	Garage and car park charges (rent)
+	Leasing
+	Traffic charges
+	Miscellaneous
+
+Communication & media
+	Internet
+	TV
+	Phone
+	Radio and television fees
+	Newspaper and magazine subscriptions
+	Multimedia (music, video & apps)
+	Film, photo, electronic devices and accessories
+	Miscellaneous
+
+Leasure time, sport & hobby
+	Going out, culture and cinema
+	Books and literature
+	Activities
+	Events
+	Sports and recreational equipment
+	Club and association contributions
+	Toys and hobby articles
+	Photography
+	Miscellaneous
+
+Taxes & duties
+	Federal tax
+	Community and cantonal tax
+	Witholding tax
+	Military exemption tax
+	Fees
+	Miscellaneous
+
+Saving, retirement & investment
+	Private provision
+	Direct investments (securities & foreign exchange)
+	Vacation and leisure time
+	Home
+	Facilities and furniture
+	Vehicle
+	Life insurance
+	Taxes
+	Miscellaneous
+
+Income & credits
+	Salary and sideline
+	Contribution
+	Capital revenues (interest, dividents & earnings)
+	Direct investments (securities & foreign exchange)
+	Sale of property
+	Refunds
+	Loans
+	Gifts and inheritance
+	Miscellaneous
+
+Uncategorized
+	Donations
+	Benefactor contributions
+	Banking services and charges
+	Credit card invoice and fees
+	Postal fees
+	Loan and debt interest
+	Collection costs and fees
+	Repayments
+	Bancomat withdrawals
+	Uncategorized
